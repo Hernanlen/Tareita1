@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+}
+.padre{
+    width: 500px;
+    height: 450px;
+    background-color: lightgoldenrodyellow;
+    padding: 40px;
+    margin: 40px;
+}
+.hijo1{
+
+    background-color: lightblue;
+    padding: 50px;
+}
+.nieto1{
+
+    background-color: deeppink;
+    padding: 50px;
+}
+.nieto2{
+
+    background-color: aqua;
+    padding: 50px;
+}
+.nieto3{
+
+    background-color: dimgray;
+    padding: 50px;
+
+}
+.nieto4{
+
+    background-color: greenyellow;
+}
